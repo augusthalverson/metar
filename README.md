@@ -10,3 +10,17 @@ A simple tool for interpreting METAR (METeorological Aerodrome Reports) in Pytho
 * Consider interpreting real-time metar info from the [Aviation Weather Center (AWC)](https://www.aviationweather.gov/metar).
 
 Feel free to contribute/offer suggestions!
+
+#### Basic METAR formula:
+
+`Airport` `Timestamp` `Report Shortcode` `Wind` `Visibility` `Clouds` `Runway` `Altimeter` `RMKs`
+
+* `Airport`
+* `Timestamp`
+* `Report Shortcode`
+* `Wind`
+* `Visibility`
+* `Clouds`
+* `Runway`
+* `Altimeter`
+* `RMKs`
