@@ -1,5 +1,5 @@
 # metar
-A simple tool for interpreting METAR (METeorological Aerodrome Reports) in Python3.
+A simple tool for interpreting METAR (**MET**eorological **A**erodrome **R**eports) in Python3.
 
 #### Things to come:
 * Function to interpret METAR segments dynamically (based on regex)
@@ -9,7 +9,6 @@ A simple tool for interpreting METAR (METeorological Aerodrome Reports) in Pytho
 * Interpret Remarks (RMKs)
 * Consider interpreting real-time metar info from the [Aviation Weather Center (AWC)](https://www.aviationweather.gov/metar).
 
-Feel free to contribute/offer suggestions!
 
 #### Basic METAR formula:
 
