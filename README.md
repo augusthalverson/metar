@@ -1,5 +1,5 @@
 # metar
-A simple tool for interpreting METAR (**MET**eorological **A**erodrome **R**eports) in Python3.
+A simple tool for interpreting METAR (**MET**eorological **A**erodrome **R**eports) in `Python3`.
 
 #### Things to come:
 * Function to interpret METAR segments dynamically (based on regex)
