@@ -12,7 +12,7 @@ A simple tool for interpreting METAR (**MET**eorological **A**erodrome **R**epor
 
 #### Basic METAR formula:
 
-`Airport` `Timestamp` `Report Shortcode` `Wind` `Visibility` `Clouds` `Runway` `Altimeter` `RMKs`
+`Airport` `Timestamp` `Report Shortcode` `Wind` `Visibility` `Clouds` `Temperature and Dewpoint` `Altimeter` `RMKs`
 
 |Segment           |Unit          |Description
 |------------------|:-------------|-----------
@@ -22,7 +22,7 @@ A simple tool for interpreting METAR (**MET**eorological **A**erodrome **R**epor
 |`Wind`            |Knots         |Windspeed (first 3 digits denote direction in degrees, next two denote speed in Kts)
 |`Visibility`      |Statute Miles |Miles of visibility
 |`Clouds`          |100s of Feet  |Describes clouds present at different altitudes
-|`Runway`          |              |
+|`Temperature and Dewpoint`|°C    |Temperature and dewpoint
 |`Altimeter`       |Inchs Mercury |Altimeter of current airport
 |`RMKs`            |_n/a_         |
 
