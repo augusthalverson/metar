@@ -3,6 +3,7 @@ A simple tool for interpreting METAR (**MET**eorological **A**erodrome **R**epor
 
 #### Things to come:
 * Function to interpret METAR segments dynamically (based on regex)
+* Determin what type of flight rukes that the given METAR indicates (e.g. IFR, VFR, Marginal VFR, LOW IFR, etc.)
 * Translate Zulu time into local time based on time zone
 * Add interpretation support for short codes (e.g. AUTO, COR, SPECI, AO2, etc.)
 * Translate ICAO code into name (or provide some other contextual information about the airport)
